@@ -1,0 +1,2502 @@
+[
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is Interstellar.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'The Great Gatsby'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Rich Dad Poor Dad' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'Happiness can be found even in the darkest of times.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy rice, lentils, flour.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Gladiator is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need butter, cheese, yogurt this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading '1984', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add onions, potatoes, tomatoes to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Happiness can be found even in the darkest of times.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Gladiator is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Titanic is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'Be yourself; everyone else is already taken.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Happiness can be found even in the darkest of times.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can read 'The Great Gatsby' again and again, I love it.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'The Catcher in the Rye'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'Happiness can be found even in the darkest of times.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Be yourself; everyone else is already taken.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'The only limit to our realization of tomorrow is our doubts of today.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Gladiator, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy butter, cheese, yogurt.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy onions, potatoes, tomatoes.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add onions, potatoes, tomatoes to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Sapiens' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'The Alchemist', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Gladiator is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy apples, bananas, oranges.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'To Kill a Mockingbird' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'The Great Gatsby'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'Be yourself; everyone else is already taken.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Inception is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'Carpe diem. Seize the day.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'The Catcher in the Rye' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'The Catcher in the Rye', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget butter, cheese, yogurt when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add chicken, fish, mutton to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Carpe diem. Seize the day.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Interstellar, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can read 'To Kill a Mockingbird' again and again, I love it.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Carpe diem. Seize the day.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'To Kill a Mockingbird' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'Carpe diem. Seize the day.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Happiness can be found even in the darkest of times.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'The only limit to our realization of tomorrow is our doubts of today.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'Happiness can be found even in the darkest of times.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is The Shawshank Redemption.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Rich Dad Poor Dad' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The Matrix is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'Sapiens' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching The Matrix, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Carpe diem. Seize the day.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Happiness can be found even in the darkest of times.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Stay hungry, stay foolish.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Carpe diem. Seize the day.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'Life is what happens when you're busy making other plans.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down apples, bananas, oranges in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need chicken, fish, mutton this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Happiness can be found even in the darkest of times.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'The Lord of the Rings' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Rich Dad Poor Dad' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget rice, lentils, flour when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Life is what happens when you're busy making other plans.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Forrest Gump is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is The Matrix.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down butter, cheese, yogurt in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Fight Club, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Titanic is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Interstellar is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Carpe diem. Seize the day.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Fight Club is my comfort movie, I adore it.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The Shawshank Redemption is my comfort movie, I adore it.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Happiness can be found even in the darkest of times.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'The Catcher in the Rye'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy rice, lentils, flour.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add butter, cheese, yogurt to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'The only limit to our realization of tomorrow is our doubts of today.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Interstellar is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is The Dark Knight.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'The Lord of the Rings', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add onions, potatoes, tomatoes to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need chicken, fish, mutton this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'Carpe diem. Seize the day.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Inception is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can read 'The Catcher in the Rye' again and again, I love it.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, The Shawshank Redemption is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Inception, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'Happiness can be found even in the darkest of times.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching The Shawshank Redemption, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'The Great Gatsby'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'Carpe diem. Seize the day.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Success is not final, failure is not fatal.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'The only limit to our realization of tomorrow is our doubts of today.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Carpe diem. Seize the day.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Carpe diem. Seize the day.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'Pride and Prejudice'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'The Great Gatsby' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget sugar, tea, coffee when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down onions, potatoes, tomatoes in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Inception is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The Shawshank Redemption is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Inception, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Gladiator is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add sugar, tea, coffee to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Interstellar, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy sugar, tea, coffee.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Forrest Gump is my comfort movie, I adore it.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'To Kill a Mockingbird' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Stay hungry, stay foolish.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need soap, toothpaste, shampoo this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Be yourself; everyone else is already taken.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'The Catcher in the Rye', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need onions, potatoes, tomatoes this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Gladiator is my comfort movie, I adore it.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite books is 'The Lord of the Rings'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need sugar, tea, coffee this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching The Matrix, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget sugar, tea, coffee when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'The Catcher in the Rye' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Carpe diem. Seize the day.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is Gladiator.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'Rich Dad Poor Dad'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need rice, lentils, flour this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching The Matrix, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Titanic is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy chicken, fish, mutton.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget sugar, tea, coffee when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'The only limit to our realization of tomorrow is our doubts of today.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy milk, eggs, bread.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Fight Club, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down onions, potatoes, tomatoes in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite books is 'To Kill a Mockingbird'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'The Alchemist' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down chicken, fish, mutton in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Gladiator is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget butter, cheese, yogurt when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Forrest Gump, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Be yourself; everyone else is already taken.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Success is not final, failure is not fatal.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite books is 'To Kill a Mockingbird'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add soap, toothpaste, shampoo to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add chicken, fish, mutton to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Sapiens' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can read 'The Lord of the Rings' again and again, I love it.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Fight Club, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add chicken, fish, mutton to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'The Lord of the Rings'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget apples, bananas, oranges when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Forrest Gump is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'1984' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching The Dark Knight, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching The Matrix, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add butter, cheese, yogurt to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Stay hungry, stay foolish.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget butter, cheese, yogurt when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add butter, cheese, yogurt to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Happiness can be found even in the darkest of times.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Carpe diem. Seize the day.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Fight Club, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can read 'Pride and Prejudice' again and again, I love it.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'Success is not final, failure is not fatal.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'The Alchemist'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is The Shawshank Redemption.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Forrest Gump is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget milk, eggs, bread when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add onions, potatoes, tomatoes to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Success is not final, failure is not fatal.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Carpe diem. Seize the day.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Pride and Prejudice' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'Be yourself; everyone else is already taken.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add sugar, tea, coffee to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Be yourself; everyone else is already taken.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite books is 'The Alchemist'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need milk, eggs, bread this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down rice, lentils, flour in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Success is not final, failure is not fatal.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget butter, cheese, yogurt when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'Stay hungry, stay foolish.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'The only limit to our realization of tomorrow is our doubts of today.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need apples, bananas, oranges this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'The Catcher in the Rye'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Be yourself; everyone else is already taken.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down apples, bananas, oranges in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy milk, eggs, bread.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need butter, cheese, yogurt this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget chicken, fish, mutton when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Interstellar is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'The only limit to our realization of tomorrow is our doubts of today.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Stay hungry, stay foolish.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Success is not final, failure is not fatal.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Forrest Gump, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is '1984'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Success is not final, failure is not fatal.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'Sapiens', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy milk, eggs, bread.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need chicken, fish, mutton this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy onions, potatoes, tomatoes.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Forrest Gump, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add milk, eggs, bread to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Stay hungry, stay foolish.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'Success is not final, failure is not fatal.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add onions, potatoes, tomatoes to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is Interstellar.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'The only limit to our realization of tomorrow is our doubts of today.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add chicken, fish, mutton to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add rice, lentils, flour to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is The Dark Knight.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is The Matrix.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Inception is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Interstellar, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Fight Club, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down soap, toothpaste, shampoo in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'Pride and Prejudice'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'The only limit to our realization of tomorrow is our doubts of today.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'The Lord of the Rings' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add onions, potatoes, tomatoes to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Fight Club is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The Dark Knight is my comfort movie, I adore it.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Forrest Gump, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy onions, potatoes, tomatoes.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'The Alchemist' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add rice, lentils, flour to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'Happiness can be found even in the darkest of times.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Carpe diem. Seize the day.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The Dark Knight is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching The Shawshank Redemption, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'1984' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'The Alchemist'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Forrest Gump is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget chicken, fish, mutton when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Forrest Gump is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'The only limit to our realization of tomorrow is our doubts of today.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite books is 'The Catcher in the Rye'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'Rich Dad Poor Dad', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Forrest Gump is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can read 'Pride and Prejudice' again and again, I love it.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite books is 'The Great Gatsby'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think '1984' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The Matrix is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'Sapiens', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'The Alchemist', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Gladiator is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Happiness can be found even in the darkest of times.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy rice, lentils, flour.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'Sapiens'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching The Shawshank Redemption, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down butter, cheese, yogurt in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The Dark Knight is my comfort movie, I adore it.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can read 'The Great Gatsby' again and again, I love it.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The Dark Knight is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add sugar, tea, coffee to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'The Lord of the Rings', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'The Lord of the Rings' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can read 'To Kill a Mockingbird' again and again, I love it.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add onions, potatoes, tomatoes to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'Happiness can be found even in the darkest of times.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need chicken, fish, mutton this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add soap, toothpaste, shampoo to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy milk, eggs, bread.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'The Alchemist', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need milk, eggs, bread this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Life is what happens when you're busy making other plans.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'Success is not final, failure is not fatal.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Fight Club is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget onions, potatoes, tomatoes when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'The only limit to our realization of tomorrow is our doubts of today.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'The only limit to our realization of tomorrow is our doubts of today.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Inception, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Life is what happens when you're busy making other plans.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Forrest Gump, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Gladiator, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, The Shawshank Redemption is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can read 'Rich Dad Poor Dad' again and again, I love it.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'The Lord of the Rings', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'1984' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add sugar, tea, coffee to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is The Matrix.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'The Great Gatsby', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need soap, toothpaste, shampoo this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Titanic, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Interstellar, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'Be yourself; everyone else is already taken.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add soap, toothpaste, shampoo to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add apples, bananas, oranges to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite books is 'The Lord of the Rings'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is Titanic.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'The Lord of the Rings' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down chicken, fish, mutton in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'Life is what happens when you're busy making other plans.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is Gladiator.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can read '1984' again and again, I love it.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'Pride and Prejudice' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'The only limit to our realization of tomorrow is our doubts of today.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'The Catcher in the Rye' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching The Shawshank Redemption, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Titanic, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'Pride and Prejudice', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need rice, lentils, flour this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'Sapiens', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add onions, potatoes, tomatoes to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'The Catcher in the Rye' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite books is 'The Alchemist'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Happiness can be found even in the darkest of times.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Gladiator is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Interstellar, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching The Matrix, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Gladiator, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add butter, cheese, yogurt to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down chicken, fish, mutton in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Interstellar is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'To Kill a Mockingbird', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite books is 'The Great Gatsby'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'The only limit to our realization of tomorrow is our doubts of today.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Inception is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'Success is not final, failure is not fatal.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Titanic is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need sugar, tea, coffee this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'The Alchemist'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add soap, toothpaste, shampoo to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Interstellar, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add soap, toothpaste, shampoo to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add sugar, tea, coffee to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Stay hungry, stay foolish.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Stay hungry, stay foolish.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The Shawshank Redemption is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'Rich Dad Poor Dad' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'The only limit to our realization of tomorrow is our doubts of today.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Titanic, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'Stay hungry, stay foolish.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Inception, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Success is not final, failure is not fatal.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is Titanic.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can read 'Rich Dad Poor Dad' again and again, I love it.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget sugar, tea, coffee when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is Inception.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Be yourself; everyone else is already taken.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The Dark Knight is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'The Alchemist' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'Life is what happens when you're busy making other plans.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need onions, potatoes, tomatoes this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'Be yourself; everyone else is already taken.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget chicken, fish, mutton when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'The only limit to our realization of tomorrow is our doubts of today.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Titanic is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Pride and Prejudice' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Fight Club, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching The Matrix, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Be yourself; everyone else is already taken.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'The only limit to our realization of tomorrow is our doubts of today.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Fight Club, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, The Dark Knight is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'The only limit to our realization of tomorrow is our doubts of today.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need onions, potatoes, tomatoes this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'Be yourself; everyone else is already taken.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Success is not final, failure is not fatal.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'The only limit to our realization of tomorrow is our doubts of today.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, The Shawshank Redemption is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Gladiator is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Life is what happens when you're busy making other plans.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'Success is not final, failure is not fatal.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can read 'The Lord of the Rings' again and again, I love it.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'1984' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down soap, toothpaste, shampoo in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add sugar, tea, coffee to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'Life is what happens when you're busy making other plans.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'Rich Dad Poor Dad' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Life is what happens when you're busy making other plans.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'Sapiens' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Life is what happens when you're busy making other plans.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'The Lord of the Rings'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'Sapiens'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Success is not final, failure is not fatal.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Fight Club, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy butter, cheese, yogurt.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need milk, eggs, bread this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is Fight Club.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is Titanic.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget sugar, tea, coffee when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'Rich Dad Poor Dad'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Gladiator, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Life is what happens when you're busy making other plans.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add sugar, tea, coffee to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Titanic, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Stay hungry, stay foolish.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'The Lord of the Rings' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Titanic is my comfort movie, I adore it.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Stay hungry, stay foolish.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Carpe diem. Seize the day.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget soap, toothpaste, shampoo when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'Success is not final, failure is not fatal.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think '1984' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Gladiator is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need milk, eggs, bread this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add soap, toothpaste, shampoo to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add chicken, fish, mutton to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can read 'Sapiens' again and again, I love it.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'The Catcher in the Rye' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'To Kill a Mockingbird'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down onions, potatoes, tomatoes in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Stay hungry, stay foolish.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "In my opinion, Fight Club is the greatest movie ever made.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is Forrest Gump.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'The only limit to our realization of tomorrow is our doubts of today.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite books is 'Rich Dad Poor Dad'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite books is 'Pride and Prejudice'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down rice, lentils, flour in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Happiness can be found even in the darkest of times.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Be yourself; everyone else is already taken.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'Rich Dad Poor Dad' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy soap, toothpaste, shampoo.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite quotes is 'Success is not final, failure is not fatal.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add milk, eggs, bread to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The Dark Knight is my comfort movie, I adore it.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Forrest Gump is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down butter, cheese, yogurt in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Titanic is my comfort movie, I adore it.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'Carpe diem. Seize the day.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'The Alchemist' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Rich Dad Poor Dad' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'The Great Gatsby' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'To Kill a Mockingbird', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy milk, eggs, bread.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'Carpe diem. Seize the day.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can read 'Sapiens' again and again, I love it.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Can you note down apples, bananas, oranges in the list?",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add onions, potatoes, tomatoes to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'1984' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Success is not final, failure is not fatal.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Inception is my comfort movie, I adore it.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'The only limit to our realization of tomorrow is our doubts of today.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need rice, lentils, flour this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'To Kill a Mockingbird' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Don’t forget apples, bananas, oranges when shopping.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'1984' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'Pride and Prejudice' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'The Great Gatsby' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Gladiator is my comfort movie, I adore it.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'Stay hungry, stay foolish.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Inception is my comfort movie, I adore it.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Titanic, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'Be yourself; everyone else is already taken.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Carpe diem. Seize the day.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'The Lord of the Rings'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add soap, toothpaste, shampoo to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need rice, lentils, flour this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite books is 'To Kill a Mockingbird'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Success is not final, failure is not fatal.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'The Great Gatsby' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Titanic is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need soap, toothpaste, shampoo this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite books is 'Pride and Prejudice'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Be yourself; everyone else is already taken.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Titanic, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'Stay hungry, stay foolish.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'Pride and Prejudice', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'Pride and Prejudice', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add milk, eggs, bread to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'Life is what happens when you're busy making other plans.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is The Dark Knight.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Forrest Gump, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'Stay hungry, stay foolish.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is 'Sapiens'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'Success is not final, failure is not fatal.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add soap, toothpaste, shampoo to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Titanic, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'The Lord of the Rings', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Be yourself; everyone else is already taken.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy milk, eggs, bread.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'The Catcher in the Rye', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Interstellar is a masterpiece, I watch it often.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add sugar, tea, coffee to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite novel is '1984'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching Titanic, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'The Great Gatsby', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "One of my favorite books is 'The Great Gatsby'.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "The quote that inspires me the most is 'Success is not final, failure is not fatal.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'Life is what happens when you're busy making other plans.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can’t stop watching The Dark Knight, it’s the best.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My favorite line is 'The only limit to our realization of tomorrow is our doubts of today.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need milk, eggs, bread this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Make sure to buy rice, lentils, flour.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'The Lord of the Rings' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love watching Fight Club, it's my favorite movie.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Inception is my comfort movie, I adore it.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Add milk, eggs, bread to the groceries.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add chicken, fish, mutton to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'The Lord of the Rings', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Happiness can be found even in the darkest of times.' always motivates me.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I love this saying: 'Life is what happens when you're busy making other plans.'.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Stay hungry, stay foolish.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'Rich Dad Poor Dad' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'To Kill a Mockingbird' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'The Alchemist', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "'The Alchemist' is the best book I’ve read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "Please add soap, toothpaste, shampoo to my grocery list.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "My all-time favorite film is Gladiator.",
+    "output": "favorite movies"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "For me, 'Success is not final, failure is not fatal.' is the best quote.",
+    "output": "favorite quote"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I loved reading 'The Alchemist', it's my favorite.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "We need butter, cheese, yogurt this week.",
+    "output": "grocery list"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I think 'The Catcher in the Rye' is a must-read.",
+    "output": "favorite book"
+  },
+  {
+    "instruction": "Categorize the user message.",
+    "input": "I can read 'The Lord of the Rings' again and again, I love it.",
+    "output": "favorite book"
+  }
+]
